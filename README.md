@@ -5,7 +5,7 @@
   <a href="mailto:vyshnavkumars2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-vyshnavkumars2005@gmail.com-blue?style=flat-square&logo=gmail" />
   </a>
-  <a href="https://linkedin.com/in/your-profile]">
+  <a href="https://www.linkedin.com/in/vyshnav-kumar-s">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
   </a>
 </p>
